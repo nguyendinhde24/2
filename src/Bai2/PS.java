@@ -1,5 +1,5 @@
 
-package Bai3;
+package Bai2;
 public class PS {
 
     private int tu;
