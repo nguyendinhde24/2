@@ -1,4 +1,4 @@
-package Bai6;
+package Bai6BS;
 
 public class Nghia {
     private String nghia, phanLoai, viDu;
